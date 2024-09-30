@@ -1,2 +1,2 @@
 const newType = true;
-console.log(newType);
+console.log("eoceoceoceoceoceoc");
