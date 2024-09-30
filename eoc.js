@@ -1,2 +1,3 @@
 const newType = true;
-console.log("eoceoceoceoceoceoc");
+const headEr = document.querySelector('header');
+console.log(headEr);
